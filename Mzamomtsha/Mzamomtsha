@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>Mzamomtsha Primary School</title>
+<style>
+ body{color:red;
+ border-style:dotted;
+ border-color:yellow;
+ background-color:#002366;
+ font-style: italic;}
+div{
+   width:10px;
+   height:500px
+   background: red;
+   position:relative;
+    -webkit-animation: myfirst 5s;
+}
+
